@@ -47,7 +47,7 @@ void mostrarResultados(int cp, float snf, int n, float nmayor, float nmenor) {
     cout << "Porcentaje ganadores: " << (n - cp) * 100.0 / n << "%"<<endl;
 }
 
-int main() {
+int main(int argc, char** argv)  {
     int n, cod, cp = 0;
     float n1, n2, n3, nf, snf = 0, nmayor = 0, nmenor = 5; 
 
