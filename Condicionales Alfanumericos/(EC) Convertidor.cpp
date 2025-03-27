@@ -3,7 +3,7 @@
 using namespace std;
  int opcion;
     double valor, resultado;
-int main() {
+int main(int argc, char** argv)  {
    
         cout << "\n--- Conversor de Unidades ---" << endl;
         cout << "1. Celsius a Fahrenheit" << endl;
