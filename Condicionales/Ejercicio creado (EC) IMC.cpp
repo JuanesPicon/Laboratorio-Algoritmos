@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
  float peso, altura, imc;
-int main() {
+int main(int argc, char** argv) {
  
 
   cout << "Ingrese su peso en kilogramos: ";
