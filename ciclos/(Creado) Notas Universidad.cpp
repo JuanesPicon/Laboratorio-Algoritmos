@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main() {
+int main(int argc, char** argv)  {
     int numCalificaciones, numQuizzes;
     float parcial1, parcial2;
     float calificacion, quiz;
