@@ -2,7 +2,7 @@
 
 using namespace std;
 
-int main() {
+int main(int argc, char** argv)  {
     double base, altura, area;
 
     // Solicitar la base y la altura al usuario
